@@ -3,7 +3,7 @@
 
 /**
  * main - Print de phrase: and that piece of art is useful"
- *  - Dora Korpar, 2015-10-19  
+ * - Dora Korpar, 2015-10-19
  * Return: 1 if exited properly, followed by a new line,
  * to the standard error.
  */
